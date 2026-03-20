@@ -1,4 +1,4 @@
-# about Me:
+# about me:
 🔭 i’m currently volunteering on CSL (Club de Software Libre/Libre Software Club)<br>🤝 ’m looking for help with web development, home-labbing and ethical hacking.<br>🌱 i’m currently learning web dev and ethical hacking.<br>💬 ask me about NixOS!
 
 
